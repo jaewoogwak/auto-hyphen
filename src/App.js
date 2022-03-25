@@ -1,11 +1,11 @@
-import Input from "./Input";
+import Phone from "./Phone";
 
 function App() {
   console.log("render");
   return (
     <div>
       Hello world
-      <Input></Input>
+      <Phone />
     </div>
   );
 }
